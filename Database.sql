@@ -16,7 +16,7 @@ INSERT INTO customers(first_name, last_name, gender, address, phone, email, city
 VALUES ('John','Hilbert','Male','284 chaucer st','084789657','john@gmail.com','Johannesburg','South Africa')
        ('Thando','Sithole','Female','240 Sect 1','0794445584','thando@gmail.com','Cape Town','South Africa')
        ('Leon','Glen','Male','81 Everton Rd,Gillits','0820832830','Leon@gmail.com','Durban','South Africa')
-       ('Charl','Muller','M￼ale','290A Dorset Ecke','+44856872553','Charl.muller@yahoo.com','JBerlin','Germany')
+       ('Charl','Muller','M￼ale','290A Dorset Ecke','+44856872553','Charl.muller@yahoo.com','Berlin','Germany')
        ('Julia','Stein','Female','22 Wernerring','+448672445058','Js234@yahoo.com','Frankfurt','Germany');
 
 CREATE TABLE employees;(
