@@ -24,7 +24,7 @@ command-not-found==0.3
 configparser==3.5.3
 connexion==2.6.0
 croniter==0.3.32
-cryptography==2.1.4
+cryptography==2.3
 cupshelpers==1.0
 decorator==4.4.2
 defer==1.0.6
