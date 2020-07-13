@@ -175,7 +175,7 @@ VALUES (
         700.60
     );
 
--- PART 2
+-- PART 2: Instructions
 
 -- 1. 
 SELECT * FROM customers;
